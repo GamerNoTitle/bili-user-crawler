@@ -1,6 +1,6 @@
 # bili-user-crawler
 
-这是一个爬取[用户信息页](https://bilibili.com/space/44666814)内容的爬虫（练手项目）
+这是一个爬取[用户信息页](https://space.bilibili.com/44666814)内容的爬虫（练手项目）
 
 ## 免责声明
 
