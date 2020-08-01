@@ -1,0 +1,12 @@
+{
+    "save": "csv",
+    "csv":{
+        "path": "data.csv"
+    },
+    "mysql":{
+        "address": "localhost",
+        "database": "bili",
+        "username": "bili",
+        "password": "biliDatabase"
+    }
+}
